@@ -1,0 +1,18 @@
+{
+  "name": "mqtt-connection-manager",
+  "version": "1.0.0",
+  "description": "This package provides a utility for parsing MQTT URLs and establishing MQTT connections",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BanidAzin/mqtt-connection-manager"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Banid Azin",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^5.7.0"
+  }
+}
